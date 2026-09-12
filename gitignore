@@ -1,0 +1,12 @@
+# Raw dataset
+dataset/
+
+# Generated feature matrices
+*.npy
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
